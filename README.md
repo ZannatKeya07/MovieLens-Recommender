@@ -20,7 +20,7 @@ Installation
 
 Clone the repository:
 
-bashCopygit clone https://github.com/yourusername/movielens-recommender.git
+bashCopygit clone https://github.com/ZannatKeya07/movielens-recommender.git
 cd movielens-recommender
 
 Install required packages:
